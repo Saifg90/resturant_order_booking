@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+'<Response>
+    <Say language="en">Hello, welcome to McDonald's, greeting from our restaurant.</Say>
+    <Say language="en">We have burgers, wraps, chicken and fish, salads, breakfast, sides, drinks, and desserts.</Say>
+    <Say language="en">What can I get for you today Sir?</Say>
+    <Say language="ar-EG">وعليكم السلام.</Say>
+    <Say language="ar-EG">تحيات من مطعمنا.</Say>
+    <Say language='ar-EG'>ماذا تريد أن تطلب.</Say>
+    <Say language='ar-EG'>لدينا برجر، راب، دجاج وسمك، سلطات، افطار، جانبي، مشروبات، حلويات.</Say>
+</Response>

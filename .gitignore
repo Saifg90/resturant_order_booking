@@ -1,0 +1,13 @@
+venv
+.env
+*.pyc
+views.txt
+sample_english_model_vosk
+*.txt
+*.wav
+*.ipynb
+backend/FileIO/logs/*
+backend/FileIO/Files/*
+.vscode
+backend/FileIO/old_logs
+test.ipynb
